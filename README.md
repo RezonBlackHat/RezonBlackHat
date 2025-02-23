@@ -49,7 +49,7 @@
 - 🌐 [Portfolio: Prakhar Gangwar](https://prakharyud.netlify.app)  
 - 💻 [GitHub: Prakhar Gangwar](https://github.com/PrakharYud)  
 - 🏢 [Organisation: RenzoAi Tech](https://github.com/RezonAi-Tech)  
-- 🖥️ [Youtube]<a href="https://youtube.com/@RenzoAi-Tech" target="_blank">
+- 🖥️ <a href="https://youtube.com/@RenzoAi-Tech" target="_reditect">
 ---
 
 
