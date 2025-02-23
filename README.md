@@ -54,5 +54,5 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Python+Developer+%7C+Server+Architect;Hacker+%7C+Tech+Enthusiast;Building+Innovative+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=22&pause=100&color=AA00F7&background=00CEFF00&width=445&lines=Expert+Python+;Ethical+Hacker;Server+Architecture" alt="Typing SVG" />
 </p>
