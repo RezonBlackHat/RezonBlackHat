@@ -8,8 +8,8 @@
   <a href="https://github.com/PrakharYud?tab=followers">
     <img src="https://img.shields.io/github/followers/PrakharYud?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/RenzoAi-Tech" target="_blank">
-    <img src="https://img.shields.io/badge/Organisation-RenzoAi%20Tech-black?style=flat-square&logo=github" alt="RenzoAi Tech" />
+  <a href="https://github.com/RezonAi-Tech" target="_blank">
+    <img src="https://img.shields.io/badge/Organisation-RenzoAi%20Tech-black?style=flat-square&logo=github" alt="RezonAi-Tech" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@
 📫 **Get in Touch:**  
 - 🌐 [Portfolio: PrakharYud](https://prakharyud.netlify.app)  
 - 💻 [GitHub: PrakharYud](https://github.com/PrakharYud)  
-- 🏢 [Organisation: RenzoAi Tech](https://github.com/RenzoAi-Tech)  
+- 🏢 [Organisation: RenzoAi Tech](https://github.com/RezonAi-Tech)  
 
 ---
 
