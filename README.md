@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RezonAi-Tech/Image/main/IMG-20250219-WA0011.jpg" alt="RenzoAi Tech Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/RezonAi-Tech/Image/main/IMG-20250219-WA0011.jpg" alt="RenzoAi Tech Logo" width="500"/>
 </p>
 
 ---
