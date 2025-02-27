@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Prakhar Yud
-### Python Expert
+###        Python Expert
 
 <p align="center">
   <a href="https://prakharyud.netlify.app" target="_blank">
