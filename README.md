@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Prakhar Yud
-### Python Expert | Intermediate in Server Architecture & Hacking
+### Python Expert | Intermediate in  Hacking
 
 <p align="center">
   <a href="https://prakharyud.netlify.app" target="_blank">
@@ -18,8 +18,7 @@
 ---
 
 💡 **About Me:**  
-- 🚀 Passionate about exploring advanced Python techniques  
-- 🧠 Intermediate in **Server Architecture** and **Ethical Hacking**  
+- 🚀 Passionate about exploring advanced Python techniques    
 - 🌱 Always learning and experimenting with new technologies  
 - 🎯 Focused on security, backend efficiency, and innovative solutions  
 
@@ -27,10 +26,9 @@
 
 🔨 **Tech Stack:**  
 - 💻 **Languages:** Python  
-- 🔗 **Backend:** FastAPI, Supabase (Server Architecture)  
+- 🔗 **Backend:** FastAPI, Supabase   
 - 🛠️ **Tools:** Vercel, WebRTC, llama.cpp, GSAP  
-- 🧑‍💻 **Hacking Tools:** Metasploit, Nmap, Burp Suite  
-
+  
 ---
 
 📈 **GitHub Stats:**  
@@ -54,5 +52,5 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=22&pause=100&color=AA00F7&background=00CEFF00&center=true&vCenter=true&width=445&lines=Expert+Python+;Ethical+Hacker;Server+Architecture+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=22&pause=100&color=AA00F7&background=00CEFF00&center=true&vCenter=true&width=445&lines=Expert+Python+" alt="Typing SVG" />
 </p>
