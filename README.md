@@ -1,10 +1,5 @@
 # 👋 Hi, I'm Prakhar Yud
-###        Python Expert
-
-<p align="center">
-  <a href="https://prakharyud.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-PrakharYud-blue?style=flat-square&logo=web" alt="Portfolio" />
-  </a>
+###        Python Expert | Trader
   <a href="https://github.com/PrakharYud?tab=followers">
     <img src="https://img.shields.io/github/followers/PrakharYud?label=Followers&style=social" alt="GitHub Followers" />
   </a>
@@ -34,7 +29,6 @@
 📈 **GitHub Stats:**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrakharYud&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrakharYud&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -44,7 +38,6 @@
 ---
 
 📫 **Get in Touch:**  
-- 🌐 [Portfolio: Prakhar Gangwar](https://prakharyud.netlify.app)  
 - 💻 [GitHub: Prakhar Gangwar](https://github.com/PrakharYud)  
 - 🏢 [Organisation: RenzoAi Tech](https://github.com/RezonAi-Tech)  
 - ✖️ [X: PrakharYud](https://x.com/PrakharYud)
@@ -52,5 +45,5 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=22&pause=100&color=AA00F7&background=00CEFF00&center=true&vCenter=true&width=445&lines=Expert+Python+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=22&pause=100&color=AA00F7&background=00CEFF00&center=true&vCenter=true&width=445&lines=Expert+Python+;Trader+" alt="Typing SVG" />
 </p>
