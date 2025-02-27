@@ -15,7 +15,7 @@
 💡 **About Me:**  
 - 🚀 Passionate about exploring advanced Python techniques    
 - 🌱 Always learning and experimenting with new technologies  
-- 🎯 Focused on security, backend efficiency, and innovative solutions  
+- 🎯 Focused on trading, security, backend efficiency, and innovative solutions  
 
 ---
 
