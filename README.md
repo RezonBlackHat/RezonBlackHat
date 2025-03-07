@@ -13,8 +13,8 @@
 ---
 
 💡 **About Me:**  
-- 🚀 Passionate about exploring advanced Python techniques    
-- 🌱 Always learning and experimenting with new technologies  
+- 🚀 Passionate about exploring advanced Python techniques and strategies in Trading  
+- 🌱 Always learning,experimenting and Money with new technologies,techniques
 - 🎯 Focused on trading, security, backend efficiency, and innovative solutions  
 
 ---
@@ -22,7 +22,7 @@
 🔨 **Tech Stack:**  
 - 💻 **Languages:** Python  
 - 🔗 **Backend:** FastAPI, Supabase   
-- 🛠️ **Tools:** Vercel, WebRTC, llama.cpp, GSAP  
+- 🛠️ **Tools:** WebRTC, llama.cpp, GSAP  
   
 ---
 
