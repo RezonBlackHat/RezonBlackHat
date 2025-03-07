@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Prakhar Yud
-###       Expert Cybersecurity | Trader | Business Man
+###      Cybersecurity Expert | Trader | Business
   <a href="https://github.com/PrakharYud?tab=followers">
     <img src="https://img.shields.io/github/followers/PrakharYud?label=Followers&style=social" alt="GitHub Followers" />
   </a>
@@ -45,5 +45,5 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=22&pause=100&color=AA00F7&background=00CEFF00&center=true&vCenter=true&width=445&lines=Expert+Cybersecurity+;Trader+; Business+Man+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=22&pause=100&color=AA00F7&background=00CEFF00&center=true&vCenter=true&width=445&lines=Cybersecurity+Expert+;Trader+; Business+" alt="Typing SVG" />
 </p>
