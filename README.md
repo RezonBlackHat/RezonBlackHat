@@ -45,5 +45,5 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=22&pause=100&color=AA00F7&background=00CEFF00&center=true&vCenter=true&width=445&lines=Cyberexpert+;Trader+; Business+Man+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=22&pause=100&color=AA00F7&background=00CEFF00&center=true&vCenter=true&width=445&lines=Expert+Cybersecurity+;Trader+; Business+Man+" alt="Typing SVG" />
 </p>
