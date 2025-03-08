@@ -22,7 +22,7 @@
 🔨 **Tech Stack:**  
 - 💻 **Languages:** Python  
 - 🔗 **Backend:** FastAPI, Supabase   
-- 🛠️ **Tools:** WebRTC, llama.cpp, GSAP  
+- 🛠️ **Tools:** Brutoforce Attacks, Hashcat Attack and more.
   
 ---
 
