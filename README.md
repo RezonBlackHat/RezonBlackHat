@@ -44,7 +44,6 @@ expertise = {
 <div align="center">
   
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-Proficient-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-Intermediate-000000?style=flat-square&logo=rust&logoColor=white)
 
