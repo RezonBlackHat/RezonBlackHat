@@ -74,5 +74,6 @@ expertise = {
 <div align="center">
   
 ### *"In the digital realm, security isn't just about prevention—it's about intelligent resilience."*
+ <img src="https://api.visitorbadge.io/api/visitors?path=PrakharYud&label=Visitors&labelColor=%23000000&countColor=%2300FFF0" alt="Visitors Badge" />
 
 </div>
