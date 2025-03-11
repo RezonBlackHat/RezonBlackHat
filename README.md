@@ -4,8 +4,8 @@
 
 ### `Cybersecurity Expert` | `Trader` | `Entrepreneur`
 
-<a href="https://github.com/RezonAi-Tech"><img src="https://img.shields.io/badge/Organization-RezonAi--Tech-0066ff?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://rezonlabs.onrender.com/"><img src="https://img.shields.io/badge/Website-RezonLabs-00cc99?style=for-the-badge&logo=react&logoColor=white"></a>
+<a href="https://github.com/Rezonlabs-Tech"><img src="https://img.shields.io/badge/Organization-Rezonlabs--Tech-0066ff?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://rezonlabs.tech/"><img src="https://img.shields.io/badge/Website-RezonLabs-00cc99?style=for-the-badge&logo=react&logoColor=white"></a>
 <a href="https://x.com/PrakharYud"><img src="https://img.shields.io/badge/Twitter-@PrakharYud-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 </div>
