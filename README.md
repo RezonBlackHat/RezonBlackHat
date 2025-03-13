@@ -50,7 +50,6 @@ expertise = {
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-Expert-red?style=flat-square&logo=hackaday&logoColor=white)
 ![Network Security](https://img.shields.io/badge/Network_Security-Advanced-blue?style=flat-square&logo=cisco&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-Proficient-121D33?style=flat-square&logo=bitcoin&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-Advanced-4B275F?style=flat-square&logo=tableau&logoColor=white)
 
 </div>
 
