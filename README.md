@@ -56,14 +56,14 @@ expertise = {
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrakharYud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharYud&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RezonBlackHat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezonBlackHat&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## 🔗 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/RezonAi-Tech/rezonlabs">
+  <a href="https://github.com/Rezonlabs-Tech/rezonlabs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rezonlabs-Tech&repo=rezonlabs&theme=tokyonight" />
   </a>
 </div>
