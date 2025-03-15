@@ -64,7 +64,7 @@ expertise = {
 
 <div align="center">
   <a href="https://github.com/RezonAi-Tech/rezonlabs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RezonAi-Tech&repo=rezonlabs&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rezonlabs-Tech&repo=rezonlabs&theme=tokyonight" />
   </a>
 </div>
 
