@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 PrakharYud 👨‍💻
+# 👨‍💻 Prakhar 👨‍💻
 
 ### `Cybersecurity Expert` | `Trader` | `Entrepreneur`
 
