@@ -1,4 +1,4 @@
-<h1> align="center">Prakhar Gangwar 🥷</h1>
+<h1 align="center"> Prakhar Gangwar 🥷</h1>
 <p align="center"><b>🔒 Cybersecurity Sensei | 💹 Trade Shogun | 🚀 Code Samurai</b></p>
 <p align="center"><i>Striking from the shadows—hacking, trading, building.</i></p>
 
