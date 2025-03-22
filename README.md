@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://x.com/PrakharYud"><img src="https://img.shields.io/badge/X-@PrakharYud-1DA1F2?style=for-the-badge&logo=x"></a>
   <a href="mailto:rezonaitech@gmail.com"><img src="https://img.shields.io/badge/Email-rezonaitech@gmail.com-darkred?style=for-the-badge&logo=gmail"></a>
-  <img src="https://img.shields.io/badge/Ninja-Active-brightgreen?style=for-the-badge">
 </p>
 
 <p align="center">
