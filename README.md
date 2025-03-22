@@ -1,78 +1,97 @@
-<div align="center">
-  
-# 👨‍💻 Prakhar 👨‍💻
+<p align="center">
+  <img src="https://via.placeholder.com/1200x300.png?text=Rezonlabs-Tech+-+0xDEADBEEF" alt="Rezonlabs-Tech Banner" width="100%">
+</p>
 
-### `Cybersecurity Expert` | `Trader` | `Entrepreneur`
+```bash
+# Rezonlabs-Tech
+# Cybersecurity Domination | Market Exploitation | Code Rebellion
+# Access Granted: root@rezonlabs-tech:~$
 
-<a href="https://github.com/Rezonlabs-Tech"><img src="https://img.shields.io/badge/Organization-Rezonlabs--Tech-0066ff?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Website-RezonLabs-00cc99?style=for-the-badge&logo=react&logoColor=white"></a>
-<a href="https://x.com/PrakharYud"><img src="https://img.shields.io/badge/Twitter-@PrakharYud-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+# > whoami
+# Prakhar Gangwar
+# - Cybersecurity Expert: Exploit dev, netsec, zero-day hunter
+# - Trading Strategist: Algo master, crypto breaker
+# - Innovator: Toolsmith for the fearless
 
-</div>
+# > id
+# UID: Prakhar Gangwar
+# GID: Hacker | Trader | Creator
+# Contact: 
+#   x: @PrakharYud (https://x.com/PrakharYud)
+#   git: gh.io/Rezonlabs-Tech
+#   mail: rezonaitech@gmail.com
+#   web: *Under construction—watch the wire*
 
----
+# > mission
+# Forge uncrackable systems
+# Exploit market flaws
+# Hack the future into existence
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0066FF&center=true&vCenter=true&random=false&width=435&lines=Innovating+Security+Solutions;Building+Resilient+Systems;Architecting+Digital+Assets;Transforming+Technology" alt="Typing SVG" />
-</div>
+# > hack_stats
+# Exploits: 75+ payloads deployed
+# Breaches: 300+ systems hardened
+# Trades: 95% algo hit rate
+# Speed: 0ms latency builds
+# Reach: Global open-source chaos
 
----
+# > projects
+# [CyberShield] 
+#   Desc: Toolkit for network annihilation
+#   Tools: Python, Scapy, Nmap, custom rootkits
+#   Feats: Packet forging, vuln chaining, stealth scans
+#   Status: Live—crack it open
+#
+# [TradeNinja] 
+#   Desc: Market-hacking bot
+#   Tools: Node.js, ML, dark pool feeds
+#   Feats: Crypto scalping, trend exploits, killswitches
+#   Status: Beta—Q2 2025 strike
+#
+# [StartupForge] 
+#   Desc: Launchpad for rogue coders
+#   Tools: Docker, encrypted configs, backdoor-proof templates
+#   Feats: Secure deploys, DDoS shields, shadow guides
+#   Status: Q1 2025 drop
 
-## ⚡ About Me
+# > cyber_arsenal
+# Cyber: Metasploit, Wireshark, Burp, Rust, Python exploits
+# Trade: Go, JS, Binance cracks, ML predictors
+# Dev: Git, Docker, Bash, zero-trust stacks
 
-Driven by a passion for digital security and innovation, I architect solutions at the critical intersection of cybersecurity, financial technology, and entrepreneurship. Based in Pilibhit, Uttar Pradesh, India, I develop robust systems that protect digital infrastructures while exploring new frontiers in technology.
+# > why_rezonlabs
+# - Speed: Sub-ms hacks, no delays
+# - Security: Built by a breaker, unbreakable
+# - Edge: Markets bow to our code
+# - Open: Hack it, steal it, make it yours
 
-## 🛡️ Professional Focus
+# > setup
+# git clone https://github.com/Rezonlabs-Tech/<target>.git
+# cd <target>
+# chmod +x exploit.sh
+# ./exploit.sh  # Breach initiated
+#
+# Prereqs:
+#   Cyber: Terminal, exploit hunger
+#   Trade: API keys, market blood
+#   Dev: Git, root-level grit
 
-```python
-expertise = {
-    "cybersecurity": ["Threat Intelligence", "Zero-Trust Architecture", "Vulnerability Research", "Security Automation"],
-    "trading": ["Algorithmic Systems", "Risk Quantification", "Market Analysis", "Digital Assets"],
-    "entrepreneurship": ["Technology Innovation", "Product Development", "Strategic Growth", "Digital Transformation"]
-}
-```
+# > roadmap
+# [x] CyberShield: Net owned
+# [ ] TradeNinja: Market pwned Q2 2025
+# [ ] StartupForge: Code dropped Q1 2025
+# [ ] HackFest: Cyber war Q3 2025
+# [ ] AI_Hacktron: Full-stack domination
 
-## 🚀 Current Ventures
+# > join
+# Hack: Rip the code apart, rebuild it
+# Ping: X or mail me
+# Star: Tag it with a ⭐
 
-- 🔐 Building **RezonLabs** - Advanced security infrastructure with AI integration
-- 📊 Developing proprietary trading frameworks with predictive analytics
-- 🌐 Engineering distributed network systems with blockchain capabilities
-- 🔬 Researching emerging threat vectors and defensive methodologies
+# > connect
+# mail: rezonaitech@gmail.com
+# x: @PrakharYud (https://x.com/PrakharYud)
+# base: gh.io/Rezonlabs-Tech
 
-## 💻 Technical Arsenal
-
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-Proficient-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-Intermediate-000000?style=flat-square&logo=rust&logoColor=white)
-
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-Expert-red?style=flat-square&logo=hackaday&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-Advanced-blue?style=flat-square&logo=cisco&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-Proficient-121D33?style=flat-square&logo=bitcoin&logoColor=white)
-
-</div>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RezonBlackHat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezonBlackHat&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-## 🔗 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Rezonlabs-Tech/rezonlabs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rezonlabs-Tech&repo=rezonlabs&theme=tokyonight" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  
-### *"In the digital realm, security isn't just about prevention—it's about intelligent resilience."*
- <img src="https://api.visitorbadge.io/api/visitors?path=PrakharYud&label=Visitors&labelColor=%23000000&countColor=%2300FFF0" alt="Visitors Badge" />
-
-</div>
+# > exit
+# "Hack fast. Trade smart. Build ruthless."
+# Rezonlabs-Tech: 0-day today, 1-world tomorrow.
