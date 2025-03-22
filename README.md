@@ -70,7 +70,7 @@
 
 ---
 
-##📚 Projects 
+## 📚 Projects 
 - **ML-Based Intrusion Detection System**:
 This project implements a machine learning-powered intrusion detection system that combines supervised and unsupervised learning techniques to detect both known and zero-day network security threats. The system features real-time traffic analysis, anomaly detection capabilities, and seamless integration with existing security infrastructure.
 </p>
