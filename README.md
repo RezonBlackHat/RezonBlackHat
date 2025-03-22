@@ -1,4 +1,4 @@
-<h1 align="center">Prakhar Gangwar 🥷</h1>
+<h1 align="center">XploitNinja 🥷</h1>
 <p align="center"><b>🔒 Cybersecurity Expert | 💹 Trading Strategist | 🚀 Tech Innovator</b></p>
 <p align="center"><i>Master of exploits, markets, and code—ready to dominate.</i></p>
 
