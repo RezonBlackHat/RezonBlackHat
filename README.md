@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=XploitNinja+-+0xNINJAHACK" alt="XploitNinja Banner" width="100%">
-</p>
-
-<h1 align="center">Prakhar Gangwar 🥷</h1>
+<i><b><h1> align="center">Prakhar Gangwar 🥷</h1>
 <p align="center"><b>🔒 Cybersecurity Sensei | 💹 Trade Shogun | 🚀 Code Samurai</b></p>
 <p align="center"><i>Striking from the shadows—hacking, trading, building.</i></p>
 
@@ -49,27 +45,6 @@
 - 💰 **Trade Kills**: 95% algo accuracy  
 - ⚡ **Speed**: Zero-lag strikes  
 - 🌍 **Reach**: Global shadow network  
-
----
-
-## 🗡️ Projects
-### [+] CyberKatana - Net Assassin
-- **Desc**: Blade-sharp cyber toolkit  
-- **Stack**: Python, Scapy, Nmap stealth  
-- **Edge**: Silent scans, vuln shurikens  
-- **Status**: Unsheathed—strike now  
-
-### [+] TradeShuriken - Market Sniper
-- **Desc**: Bot for lethal trades  
-- **Stack**: Crypto blades  
-- **Edge**: Scalping, trend decapitation  
-- **Status**: Sharpening—Q2 2025  
-
-### [+] StartupTanto - Code Dagger
-- **Desc**: Secure launch weaponry  
-- **Stack**: Docker, ninja scripts  
-- **Edge**: DDoS armor, shadow builds  
-- **Status**: Forging—Q1 2025  
 
 ---
 
