@@ -44,7 +44,7 @@
 ---
 
 ## 📊 Ninja Stats
-- 🛡️ **Exploits Crafted**: 75+ deadly payloads  
+- 🛡️ **Exploits Crafted**:100+ deadly payloads  
 - 🔥 **Systems Secured**: 300+ breaches slain  
 - 💰 **Trade Kills**: 95% algo accuracy  
 - ⚡ **Speed**: Zero-lag strikes  
@@ -61,7 +61,7 @@
 
 ### [+] TradeShuriken - Market Sniper
 - **Desc**: Bot for lethal trades  
-- **Stack**: Node.js, ML, crypto blades  
+- **Stack**: Crypto blades  
 - **Edge**: Scalping, trend decapitation  
 - **Status**: Sharpening—Q2 2025  
 
@@ -85,5 +85,60 @@
 ## 🛠️ Arsenal
 ```bash
 Cyber: Nmap, Metasploit, Wireshark, Rust katanas
-Trade: Go, JS, Binance slashes, ML precision
+Trade: Binance slashes
 Dev: Git, Docker, Bash, zero-trust steel
+```
+
+---
+
+## 🌟 Why XploitNinja?
+- ⚡ **Speed**: Hacks faster than sound  
+- 🔒 **Security**: Forged by a ninja breaker  
+- 💹 **Edge**: Markets bleed to my code  
+- 👐 **Open**: Steal it, wield it  
+
+---
+
+## 🚀 Deploy
+```bash
+git clone https://github.com/XploitNinja/<target>.git
+cd <target>
+chmod +x ninja.sh
+./ninja.sh  # Unleash the strike
+```
+**Gear**:  
+- Cyber: CLI skills, ninja spirit  
+- Trade: API keys, market blood  
+- Dev: Git, shadow focus  
+
+---
+
+## 🗺️ Ninja Path
+- [x] CyberKatana: Net sliced  
+- [ ] TradeShuriken: Market hunt   
+- [ ] StartupTanto: Blade ready  
+- [ ] NinjaClash: Cyber duel 
+- [ ] AI_Shinobi: Full shadow reign  
+
+---
+
+## 🤝 Join the Shadows
+- **Hack**: Slash the code, reforge it  
+- **Ping**: X or email me  
+- **Star**: Mark it with a ⭐  
+
+---
+
+## 📡 Contact
+- **Email**: [rezonaitech@gmail.com](mailto:rezonaitech@gmail.com)  
+- **X**: [@PrakharYud](https://x.com/PrakharYud)  
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-0xNINJA-brightgreen?style=for-the-badge">
+  <br>
+  <b>"Hack swift. Trade deadly. Build eternal."</b>
+  <br>
+  <i>XploitNinja: Shadows cast, empires rise.</i>
+</p>
