@@ -136,7 +136,7 @@ chmod +x ninja.sh
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-0xNINJA-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-XploitNinja-brightgreen?style=for-the-badge">
   <br>
   <b>"Hack swift. Trade deadly. Build eternal."</b>
   <br>
