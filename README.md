@@ -1,105 +1,118 @@
-<h1 align="center"> Prakhar Gangwar 🥷</h1>
-<p align="center"><b>🔒 Cybersecurity Sensei | 💹 Trade Shogun | 🚀 Code Samurai</b></p>
-<p align="center"><i>Striking from the shadows—hacking, trading, building.</i></p>
+<h1 align="center">Prakhar Gangwar 🥷</h1>
+<p align="center"><b>🔒 Cybersecurity Expert | 💹 Trading Strategist | 🚀 Tech Innovator</b></p>
+<p align="center"><i>Master of exploits, markets, and code—ready to dominate.</i></p>
 
 <p align="center">
   <a href="https://x.com/PrakharYud"><img src="https://img.shields.io/badge/X-@PrakharYud-1DA1F2?style=for-the-badge&logo=x"></a>
   <a href="mailto:rezonaitech@gmail.com"><img src="https://img.shields.io/badge/Email-rezonaitech@gmail.com-darkred?style=for-the-badge&logo=gmail"></a>
+  <img src="https://img.shields.io/badge/Status-Ready%20to%20Hire-brightgreen?style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/500x300.png?text=Ninja+Arsenal+-+Cyber+Tools+and+Trade+Blades" alt="XploitNinja Arsenal" width="50%">
+  <img src="https://via.placeholder.com/500x300.png?text=Ninja+Arsenal+-+Cyber+Skills+and+Trade+Mastery" alt="XploitNinja Arsenal" width="50%">
 </p>
 
 ---
 
-## 🥷 Who is XploitNinja?
+## 🥷 Profile
 **Prakhar Gangwar**  
-- 🔐 **Cybersecurity Master**: Exploit forger, netsec ninja  
-- 💸 **Trading Warlord**: Algo assassin, market stalker  
-- 💡 **Code Innovator**: Stealth builder, future slicer  
+- 🔐 **Cybersecurity Pro**: Exploit developer, network security specialist  
+- 💸 **Trading Expert**: Algorithmic trading guru, market analyst  
+- 💡 **Innovator**: Builder of cutting-edge tools and solutions  
 
 ---
 
-## ⚔️ Ninja Intel
+## ⚔️ Expertise
 - **Name**: Prakhar Gangwar  
-- **Skills**: Hacking | Trading | Innovating  
-- **Links**:  
+- **Domains**: Cybersecurity | Trading | Software Development  
+- **Connect**:  
   - X: [@PrakharYud](https://x.com/PrakharYud)  
   - Email: [rezonaitech@gmail.com](mailto:rezonaitech@gmail.com)  
-  - Web: *Stealth mode—coming soon*  
+  - Portfolio: *Coming soon—stealth mode*  
 
 ---
 
-## 🎯 Missions
-- **Hack**: Slash through vulnerabilities  
-- **Trade**: Strike profits with precision  
-- **Build**: Forge tools of chaos and control  
+## 🎯 Objectives
+- **Secure**: Harden systems against any threat  
+- **Profit**: Optimize trades for maximum gain  
+- **Innovate**: Deliver tools that redefine industries  
 
 ---
 
-## 📊 Ninja Stats
-- 🛡️ **Exploits Crafted**:100+ deadly payloads  
-- 🔥 **Systems Secured**: 300+ breaches slain  
-- 💰 **Trade Kills**: 95% algo accuracy  
-- ⚡ **Speed**: Zero-lag strikes  
-- 🌍 **Reach**: Global shadow network  
+## 📊 Skills & Wins
+- 🛡️ **Cyber Exploits**: 75+ custom tools  use 
+- 🔥 **Security Feats**: 300+ vulnerabilities neutralized  
+- 💰 **Trading Success**: 95% algo accuracy  
+- ⚡ **Performance**: Zero-lag, high-impact code  
+- 🌍 **Impact**: Open-source contributor    
 
 ---
 
-## 🎨 Ninja Design
-- **Look**: Cyberpunk shadows, neon scars  
-- **Code**: Lean, lethal, sub-ms kills  
-- **Style**: Dark vibes, ninja grace  
-- **Edge**: Tools as sharp as they look  
-- **Mantra**: *Strike fast, leave no trace*  
+## 🎨 Design Philosophy
+- **Style**: Clean, sharp, cyber-edge  
+- **Approach**: Minimalist yet powerful  
+- **Focus**: Speed, security, scalability  
+- **Look**: Professional, ninja-grade polish  
+- **Goal**: Code that hires itself  
 
 ---
 
-## 🛠️ Arsenal
+## 💻 Ninja Code
+- **Principles**:  
+  - 🔑 Zero-trust security  
+  - ⚡ Lightning-fast execution  
+  - 🕵️‍♂️ Stealth-first design  
+- **Result**: Tools that crush it  
+
+---
+
+## 🎮 Targets Acquired
+- **Cyber**: 50+ exploit chains dismantled  
+- **Trade**: 20+ markets mastered  
+- **Code**: 10+ high-impact projects  
+- **Next**: AI-powered ninja solutions  
+
+<p align="center">
+  <img src="https://via.placeholder.com/400x200.png?text=Target+Locked+-+Next+Challenge" alt="XploitNinja Target" width="40%">
+</p>
+
+---
+
+## 🛠️ Tech Stack
 ```bash
-Cyber: Nmap, Metasploit, Wireshark, Rust katanas
-Trade: Binance slashes
-Dev: Git, Docker, Bash, zero-trust steel
+Cyber: Nmap, Metasploit, Wireshark, Rust
+Trade:  Binance API
+Dev: Git, Docker, Bash, Zero-Trust
 ```
 
 ---
 
-## 🌟 Why XploitNinja?
-- ⚡ **Speed**: Hacks faster than sound  
-- 🔒 **Security**: Forged by a ninja breaker  
-- 💹 **Edge**: Markets bleed to my code  
-- 👐 **Open**: Steal it, wield it  
+## 🌟 Why Hire XploitNinja?
+- ⚡ **Speed**: Delivers fast, flawless results  
+- 🔒 **Security**: Proven breaker and builder  
+- 💹 **Profit**: Turns data into dollars  
+- 👐 **Open**: Shares expertise freely  
 
 ---
 
-## 🚀 Deploy
+## 🚀 Get Started
 ```bash
 git clone https://github.com/XploitNinja/<target>.git
 cd <target>
 chmod +x ninja.sh
-./ninja.sh  # Unleash the strike
+./ninja.sh  # Deploy the ninja
 ```
-**Gear**:  
-- Cyber: CLI skills, ninja spirit  
-- Trade: API keys, market blood  
-- Dev: Git, shadow focus  
+**Requirements**:  
+- Cyber: CLI expertise  
+- Trade: Market savvy  
+- Dev: Coding grit  
 
 ---
 
-## 🗺️ Ninja Path
-- [x] CyberKatana: Net sliced  
-- [ ] TradeShuriken: Market hunt   
-- [ ] StartupTanto: Blade ready  
-- [ ] NinjaClash: Cyber duel 
-- [ ] AI_Shinobi: Full shadow reign  
-
----
-
-## 🤝 Join the Shadows
-- **Hack**: Slash the code, reforge it  
-- **Ping**: X or email me  
-- **Star**: Mark it with a ⭐  
+## 🤝 Collaborate
+- **Work**: Hire me for cyber/trade/dev  
+- **Chat**: X or email  
+- **Star**: Boost with a ⭐  
 
 ---
 
@@ -110,9 +123,10 @@ chmod +x ninja.sh
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-XploitNinja-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-XploitNinja-brightred?style=for-the-badge">
   <br>
-  <b>"Hack swift. Trade deadly. Build eternal."</b>
+  <b>"Secure. Profit. Innovate."</b>
   <br>
-  <i>XploitNinja: Shadows cast, empires rise.</i>
+  <i>XploitNinja: Your next hire, already winning.</i>
 </p>
+```
