@@ -8,10 +8,6 @@
   <img src="https://img.shields.io/badge/Status-Ready%20to%20Hire-brightgreen?style=for-the-badge">
 </p>
 
-<p align="center">
-  <img src="https://via.placeholder.com/500x300.png?text=Ninja+Arsenal+-+Cyber+Skills+and+Trade+Mastery" alt="XploitNinja Arsenal" width="50%">
-</p>
-
 ---
 
 ## 🥷 Profile
@@ -129,4 +125,3 @@ chmod +x ninja.sh
   <br>
   <i>XploitNinja: Your next hire, already winning.</i>
 </p>
-```
