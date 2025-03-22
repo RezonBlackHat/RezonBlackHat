@@ -68,8 +68,6 @@
 - **Code**: 10+ high-impact projects  
 - **Next**: AI-powered ninja solutions  
 
-<p align="center">
-  <img src="https://via.placeholder.com/400x200.png?text=Target+Locked+-+Next+Challenge" alt="XploitNinja Target" width="40%">
 </p>
 
 ---
